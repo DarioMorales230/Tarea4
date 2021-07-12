@@ -29,7 +29,7 @@ Morales Carrillo Henry Dario, Flores Castillo Nicolas Fabian, Ramos Herrera Este
 
 6. BIBLIOGRAFIA 
 
-
+7 AnÃ¡lisis de ciruitos - Robbins.rar. (s. f.). Recuperado 13 de julio de 2021, de https://drive.google.com/file/d/1xLy0QqUmSOByE8CDn-6dgCHs8NJL-juA/view?usp=sharing
 
 
 
