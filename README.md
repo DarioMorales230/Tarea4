@@ -15,7 +15,43 @@ Morales Carrillo Henry Dario, Flores Castillo Nicolas Fabian, Ramos Herrera Este
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
+3.1. CAPITULO 7
 
+7-1 La red en serie-paralelo
+
+1. Para las redes de la figura 7-46, determine cuáles resistores y ramas están en serie y cuáles en paralelo. Escriba una expresión para la resistencia total, RT.
+
+![Captura de pantalla (1497)](https://user-images.githubusercontent.com/85144847/125364722-986ebd00-e338-11eb-9c8c-cd69e150612a.png)
+
+3. Escriba una expresión para RT1 y RT2 para las redes de la figura 7-48
+
+
+
+5. Las redes de resistores tienen las resistencias totales que se muestran a continuación. Dibuje un circuito que corresponda a cada expresión.
+
+
+
+7-2 Análisis de circuitos en serie-paralelo 
+
+7. Determine la resistencia total para cada red de la figura 7-50.
+
+
+
+9. Calcule la resistencia Rab y Rcd en el circuito de la figura 7-52.
+
+
+
+11. Vea el circuito de la figura 7-54. Encuentre las siguientes cantidades: 
+
+
+
+
+
+
+
+
+
+3. Escriba una expresión para RT1 y RT2 para las redes de la figura 7-48
 
 
 4. VIDEO DE YOUTUBE
