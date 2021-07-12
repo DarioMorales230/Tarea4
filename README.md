@@ -36,7 +36,9 @@ Dibuje un circuito que corresponda a cada expresión.
 
 7. Determine la resistencia total para cada red de la figura 7-50.
 
+![image](https://user-images.githubusercontent.com/85144847/125365689-58103e80-e33a-11eb-8ceb-ced8f6f2df95.png)
 
+![Captura de pantalla (1502)](https://user-images.githubusercontent.com/85144847/125366044-f56b7280-e33a-11eb-834c-0f799c385b7b.png)
 
 9. Calcule la resistencia Rab y Rcd en el circuito de la figura 7-52.
 
