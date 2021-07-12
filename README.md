@@ -25,9 +25,10 @@ Morales Carrillo Henry Dario, Flores Castillo Nicolas Fabian, Ramos Herrera Este
 
 3. Escriba una expresión para RT1 y RT2 para las redes de la figura 7-48
 
+![Captura de pantalla (1499)](https://user-images.githubusercontent.com/85144847/125365356-b852b080-e339-11eb-8b8f-eb5210df1989.png)
 
-
-5. Las redes de resistores tienen las resistencias totales que se muestran a continuación. Dibuje un circuito que corresponda a cada expresión.
+5. Las redes de resistores tienen las resistencias totales que se muestran a continuación.  
+Dibuje un circuito que corresponda a cada expresión.
 
 
 
