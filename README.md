@@ -30,7 +30,7 @@ Morales Carrillo Henry Dario, Flores Castillo Nicolas Fabian, Ramos Herrera Este
 5. Las redes de resistores tienen las resistencias totales que se muestran a continuación.  
 Dibuje un circuito que corresponda a cada expresión.
 
-
+![Captura de pantalla (1500)](https://user-images.githubusercontent.com/85144847/125365543-0d8ec200-e33a-11eb-802f-f6953c40a7c0.png)
 
 7-2 Análisis de circuitos en serie-paralelo 
 
