@@ -64,6 +64,9 @@ c. Vab, Vbc.
 
 ![Captura de pantalla (1513)](https://user-images.githubusercontent.com/85144847/125385795-d1228c80-e360-11eb-81f9-566918cb79ab.png)
 
+![Captura de pantalla (1514)](https://user-images.githubusercontent.com/85144847/125385915-08913900-e361-11eb-8122-b92362ce0e10.png)
+
+![Captura de pantalla (1516)](https://user-images.githubusercontent.com/85144847/125386140-61f96800-e361-11eb-8ee5-ebf0660dc50c.png)
 
 
 
