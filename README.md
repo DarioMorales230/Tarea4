@@ -231,6 +231,9 @@ d. Si se usa el mismo voltímetro para medir el voltaje en el resistor de 200 k�
 
 ![image](https://user-images.githubusercontent.com/85144847/125408076-202bea00-e380-11eb-9813-14f04d7920d6.png)
 
+• DESARROLLO
+
+![Captura de pantalla (1556)](https://user-images.githubusercontent.com/85144847/125408987-15258980-e381-11eb-9059-ebb6d8c5cad8.png)
 
 
 
