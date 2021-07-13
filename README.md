@@ -539,10 +539,19 @@ I5=2A+I4
 
 ![Captura de pantalla (1580)](https://user-images.githubusercontent.com/85144847/125462049-d599b3fd-e782-4283-979a-6e8e26206791.png)
 
+8-6 Análisis de nodos
 
+35. Repita el problema 33 para el circuito de la figura 8-90
 
+![image](https://user-images.githubusercontent.com/85144847/125463725-50c41615-260b-4bdf-8a2e-58b5bdf02915.png)
 
+Nodo a:
 
+![Captura de pantalla (1583)](https://user-images.githubusercontent.com/85144847/125464915-d734b37f-849e-430e-a48f-652fe4040c64.png)
+
+Nodo b:
+
+![Captura de pantalla (1584)](https://user-images.githubusercontent.com/85144847/125464929-1ad3458f-600d-47ac-9387-0cd9a0a4225c.png)
 
 
 
