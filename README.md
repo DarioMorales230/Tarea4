@@ -685,18 +685,33 @@ d. Determine el voltaje en R 5.
 
 ![image](https://user-images.githubusercontent.com/85144847/125490841-2fa4efb7-c73a-4c7f-900d-5b9f8b78e0b4.png)
 
+Armando el circuito en una forma familiar tenemos 
 
+![image](https://user-images.githubusercontent.com/85144847/125498394-2ad57d1a-36c2-46bc-a452-73a30af66bde.png)
+![Captura de pantalla (1607)](https://user-images.githubusercontent.com/85144847/125499614-213844ad-19b8-4bc4-b8ed-3256c4726de9.png)
 
+![image](https://user-images.githubusercontent.com/85144847/125499686-712f5dee-ab06-4656-89e5-9d31723bc2b6.png)
+![image](https://user-images.githubusercontent.com/85144847/125499713-42583ad9-710d-4880-b317-be90cffd0d63.png)
 
+RT=9.26 Ω+1 Ω=10.26 Ω
 
-
+![image](https://user-images.githubusercontent.com/85144847/125499797-ebced98d-28f9-4936-a3c4-e74444c6f14b.png)
+![Captura de pantalla (1608)](https://user-images.githubusercontent.com/85144847/125500041-3910f764-d89c-49d2-9fa6-a37cff7b2e40.png)
 
 
 49. En el circuito puente de la figura 8-102 encuentre la corriente a través de cada resistor.
 
 ![image](https://user-images.githubusercontent.com/85144847/125490794-61ba68df-bdd6-4c47-b9c9-14b50b155324.png)
 
+Primero pasaremos el circuito de delta a Y para una mejor apreciacion.
 
+![image](https://user-images.githubusercontent.com/85144847/125501787-b530548d-e119-4c45-85c0-2c3b15420ae9.png)
+![Captura de pantalla (1613)](https://user-images.githubusercontent.com/85144847/125501895-2e80876e-d438-4f5e-8995-c8c130078b67.png)
+
+Con el cambio realizado procederemos a armar nuevamente el circuito de una forma familiar y sencilla para nosotros.
+
+![image](https://user-images.githubusercontent.com/85144847/125502127-3f5c7d43-071c-475a-9a69-53c0e374f839.png)
+![image](https://user-images.githubusercontent.com/85144847/125502136-789c44c1-e806-4cea-9ad9-d49de75f92b1.png)
 
 
 4. VIDEO DE YOUTUBE
