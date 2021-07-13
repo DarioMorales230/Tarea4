@@ -637,6 +637,65 @@ Armando el circuito de una forma familiar tenemos:
 
 45.Repita el problema 43 para el circuito de la figura 8-98.
 
+![image](https://user-images.githubusercontent.com/85144847/125489980-f374a15c-f0f9-4d85-b7d9-d37478fd9672.png)
+
+ Primero pasaremos de delta a Y para una mejor resolucion.
+ 
+ ![image](https://user-images.githubusercontent.com/85144847/125492668-d6938743-cec0-4186-9f71-31561aa441e6.png)
+ 
+![Captura de pantalla (1601)](https://user-images.githubusercontent.com/85144847/125492877-ee089b11-c4ec-446b-9201-bc6c4db6cc55.png)
+
+Construimos el circuito con los nuevos valores.
+
+![image](https://user-images.githubusercontent.com/85144847/125493185-4ffbd185-941c-4d7b-a7b1-21979853f323.png)
+
+![image](https://user-images.githubusercontent.com/85144847/125493258-623ad0c5-8f64-4a36-b07d-a89747cae9d4.png)
+
+RTo=300+100= 400 Ω
+
+RT1=130+16.67= 166.69 Ω
+
+• Desarrollando nos queda:
+
+![Captura de pantalla (1602)](https://user-images.githubusercontent.com/85144847/125493828-7b075e17-6ad4-420c-a8e9-a975ef5d3007.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+47.Vea el circuito puente de la figura 8-100: 
+
+a. ¿El puente está balanceado? Explique. 
+
+b. Escriba las ecuaciones de malla. 
+
+c. Calcule la corriente a través de R 5. 
+
+d. Determine el voltaje en R 5.
+
+![image](https://user-images.githubusercontent.com/85144847/125490841-2fa4efb7-c73a-4c7f-900d-5b9f8b78e0b4.png)
+
+
+
+
+
+
+
+
+49. En el circuito puente de la figura 8-102 encuentre la corriente a través de cada resistor.
+
+![image](https://user-images.githubusercontent.com/85144847/125490794-61ba68df-bdd6-4c47-b9c9-14b50b155324.png)
+
 
 
 
