@@ -146,6 +146,7 @@ a. Determine el intervalo de voltajes que aparecerán en RL a medida que el pote
 
 b. Si R2 se ajusta para tener 2.5 kΩ ¿Cuál será el voltaje VL? Si se remueve el resistor de carga ¿Qué voltaje aparecerá entre las terminales a y b?
 
+![image](https://user-images.githubusercontent.com/85144847/125396479-3a5ecb80-e372-11eb-9fa4-1cebacc526b6.png)
 
 
 
