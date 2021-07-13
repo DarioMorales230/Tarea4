@@ -136,12 +136,6 @@ Calculando lo requerido tenemos que:
 
 
 
-
-
-
-3. Escriba una expresión para RT1 y RT2 para las redes de la figura 7-48
-
-
 4. VIDEO DE YOUTUBE
 
 https://youtu.be/Ym94Vzg9ogI
