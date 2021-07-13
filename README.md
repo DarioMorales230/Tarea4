@@ -249,6 +249,9 @@ c. Calcule el efecto de carga en el medidor cuando se mide cada una de las corri
 
 a) La forma correcta de conectar un amperimetro en un circuito es en serie con el componente esto con la finalidad de saber su corriente electrica.
 
+b) Obtenemos primero la resitencia equivalente:
+
+
 
 
 
