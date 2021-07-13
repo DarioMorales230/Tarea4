@@ -322,6 +322,35 @@ V = 7.2 V
 
 ![Captura de pantalla (1574)](https://user-images.githubusercontent.com/85144847/125455660-93adfa69-a9aa-4d9c-82b5-fb72051cddd1.png)
 
+8-4 Análisis de corriente de rama 
+
+19. Escriba las ecuaciones de corriente de rama para que el circuito de la figura 8-79 y encuentre las corrientes de rama mediante determinantes.
+
+![image](https://user-images.githubusercontent.com/85144847/125455911-8107a0d2-cfcb-4330-ae23-47514cc1a2c1.png)
+
+15V - (30Ω)I1 + (6Ω)I2 = 0
+
+-(6)I2 + 5V - (200)I3 = 0
+
+![image](https://user-images.githubusercontent.com/85144847/125456313-285fe08a-6ebe-4e27-b179-02e2773c35ac.png)
+
+Nodo C
+
+I3 = I1 + I2
+
+30I1 - 6I2 + 0I3 = 15
+
+0I1 - 6I2 - 20I3 = -5
+
+1I1 + 1I2 - 1I3=0
+
+D = 30(6+20)-0(6-0) +1(120-0)
+
+D = 900
+
+![Captura de pantalla (1575)](https://user-images.githubusercontent.com/85144847/125456806-b2bf8fc4-11f2-4915-9d65-590c60a9ac50.png)
+
+21. Escriba las ecuaciones de corriente de rama para el circuito de la figura 8-81 y encuentre la corriente I2.
 
 
 4. VIDEO DE YOUTUBE
