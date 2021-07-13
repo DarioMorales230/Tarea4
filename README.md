@@ -318,6 +318,9 @@ V = 3mA  * 2.4 kΩ
 
 V = 7.2 V
 
+![image](https://user-images.githubusercontent.com/85144847/125455477-49be5185-ad6b-4378-b552-df90414ae19d.png)
+
+![Captura de pantalla (1574)](https://user-images.githubusercontent.com/85144847/125455660-93adfa69-a9aa-4d9c-82b5-fb72051cddd1.png)
 
 
 
