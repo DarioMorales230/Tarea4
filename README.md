@@ -448,6 +448,63 @@ Remplazo I2 en (1)
 
 I1=0.467A
 
+27. Utilice el análisis de malla para encontrar la corriente I2 en el circuito de la figura 8-81.
+
+![image](https://user-images.githubusercontent.com/85144847/125459576-5081855b-24a8-4861-8a0c-f8044a744dcf.png)
+
+V=2.5 A × R4
+
+V=2.5 A × 8.2 Ω 
+
+V=20.5 V
+
+![image](https://user-images.githubusercontent.com/85144847/125459693-1dd5a6c5-4cb5-4c33-99a4-c86169b4b660.png)
+
+Ciclo 1:
+
+20.5 V-(8.2Ω)I1-(6.2Ω)I1-(5Ω)I3-10 V = 0 V
+
+Ciclo 2:
+
+10V-(5Ω)I3+(5Ω)I1-(4.7Ω)I3 = 0 V
+
+![Captura de pantalla (1578)](https://user-images.githubusercontent.com/85144847/125460016-0c7d9b70-fddb-46fd-84d7-ebc0f196f83d.png)
+
+29. Utilice el análisis de malla para encontrar las corrientes de lazo en el circuito de la figura 8-84. Use sus resultados para determinar I y Vab.
+
+![image](https://user-images.githubusercontent.com/85144847/125460137-b6bd215d-f823-4627-a1ed-5b9804e615ee.png)
+
+Ciclo 1 "C1":
+
+2V-(40Ω)I1-(60Ω)I1+(60Ω)I2-12V = 0V
+
+Ciclo 2 "C2":
+
+12V-(60Ω)I2+(60Ω)I1-(80Ω)I2+8V = 0 V
+
+• Donde:
+
+Para el ciclo 1:
+
+-(10Ω)I1+(6Ω)I2=1V
+
+Para el ciclo 2:
+
+(6Ω)I1-(14Ω)I2 = -2 V
+
+![image](https://user-images.githubusercontent.com/85144847/125460552-577e3079-9900-4341-8074-73671cdc5c59.png)
+
+![Captura de pantalla (1579)](https://user-images.githubusercontent.com/85144847/125460795-6c56b8ba-a0a2-47ec-81fd-7149b33fd6db.png)
+
+
+
+
+
+
+
+
+
+
 
 
 
