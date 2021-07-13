@@ -352,6 +352,36 @@ D = 900
 
 21. Escriba las ecuaciones de corriente de rama para el circuito de la figura 8-81 y encuentre la corriente I2.
 
+![image](https://user-images.githubusercontent.com/85144847/125456931-8fe8f5e4-bcfc-4f07-8de6-b68f92397024.png)
+
+cbc = 10V - (5Ω)I1 - (4.7Ω)I3 = 0 V
+
+cabc = (8.2Ω)I4 + (6.2Ω)I2 + (5Ω)I1 - 10V = 0 V
+
+Nodo C
+
+I3 + I4 = I1 + 2.5A
+
+Nodo B
+
+I1 = I2 + I3
+
+-5I1 + 0I2 - 4.7I3 + 0I4 = -10
+
+5I1 + 6.2I2 + 0I3 + 8.2I4 = 10
+
+-1I1 + 0I2 + 1I3 + 0I4 = 2.5
+
+1I1 - 1I2 - 1I3 + 0I4 = 0
+
+
+
+
+
+
+
+
+
 
 4. VIDEO DE YOUTUBE
 
