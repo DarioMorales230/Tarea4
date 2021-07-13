@@ -553,9 +553,34 @@ Nodo b:
 
 ![Captura de pantalla (1584)](https://user-images.githubusercontent.com/85144847/125464929-1ad3458f-600d-47ac-9387-0cd9a0a4225c.png)
 
+37. Escriba las ecuaciones de nodos para el circuito de la figura 8-86 y encuentre V6Ω.
+
+![image](https://user-images.githubusercontent.com/85144847/125465119-e1b84180-697d-48f8-8972-ec627c0ad520.png)
+
+Armamos al circuito de una forma conocida 
+
+![image](https://user-images.githubusercontent.com/85144847/125466596-e09f3cc1-181e-42f8-80b8-3f4b1ae2c775.png)
+
+Nodo a:
+
+![Captura de pantalla (1587)](https://user-images.githubusercontent.com/85144847/125466966-ca0084b7-89b0-43e7-bbac-9cda08cc40d9.png)
 
 
+Nodo b:
 
+![Captura de pantalla (1588)](https://user-images.githubusercontent.com/85144847/125466987-8487df69-cd7d-4940-b9e1-d77ce8704e5d.png)
+
+ Usando sistema de ecuaciones:
+ 
+ ![WhatsApp Image 2021-07-13 at 09 11 17](https://user-images.githubusercontent.com/85144847/125467104-7e123cfa-adc2-4274-aa3d-0ed2f3cf77d5.jpeg)
+
+Va=-161.14 V
+
+Vb=-54.85 V
+
+Para el voltaje en la resistencia de 6 ohmnios:
+
+V6Ω=(-54.85-161,14)*6= -1.295 kV
 
 
 
