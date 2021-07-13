@@ -6,8 +6,18 @@ Morales Carrillo Henry Dario, Flores Castillo Nicolas Fabian, Ramos Herrera Este
 
 1.1. Objetivo General.
 
+•	Planear, desarrollar y exponer los diferentes problemas que nos lleguemos a encontrar en un circuito paralelo, serie, delta o estrella como también el respectivo planteamiento de sus  ecuaciones ya sea de rama, nodo o malla tomando en cuenta también la teoría que lleguemos a entender para el desarrollo de cada problema o incógnita que lleguemos a tener mediante su resolución.
 
 1.2. Objetivos Especificos.
+
+
+
+
+
+
+
+
+
 
 
 
