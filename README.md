@@ -90,9 +90,8 @@ c) Verifique que la potencia suministrada al circuito es igual a la suma de las 
 Armando el circuito de una fomra conocida para nosotros quedaria. 
 
 ![Captura de pantalla (1517)](https://user-images.githubusercontent.com/85144847/125387613-ce756680-e363-11eb-85e7-a924cb250c07.png)
-![Captura de pantalla (1518)](https://user-images.githubusercontent.com/85144847/125387620-cf0dfd00-e363-11eb-8520-098b94a8acf1.png)
-![Captura de pantalla (1519)](https://user-images.githubusercontent.com/85144847/125387621-cfa69380-e363-11eb-8534-4967359d9aa4.png)
-![Captura de pantalla (1520)](https://user-images.githubusercontent.com/85144847/125387622-cfa69380-e363-11eb-9e9f-025bdb26d33a.png)
+
+![Captura de pantalla (1521)](https://user-images.githubusercontent.com/85144847/125388060-755a0280-e364-11eb-8813-807f03499794.png)
 
 
 
