@@ -91,7 +91,11 @@ Armando el circuito de una fomra conocida para nosotros quedaria.
 
 ![Captura de pantalla (1517)](https://user-images.githubusercontent.com/85144847/125387613-ce756680-e363-11eb-85e7-a924cb250c07.png)
 
-![Captura de pantalla (1521)](https://user-images.githubusercontent.com/85144847/125388060-755a0280-e364-11eb-8813-807f03499794.png)
+![Captura de pantalla (1522)](https://user-images.githubusercontent.com/85144847/125388234-c36f0600-e364-11eb-907f-a252b92b1b55.png)
+
+Calculando lo requerido tenemos que:
+
+![Captura de pantalla (1523)](https://user-images.githubusercontent.com/85144847/125388546-4beda680-e365-11eb-8375-0ab88320c1e3.png)
 
 
 
