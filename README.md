@@ -620,6 +620,21 @@ Primero pasaremos de Y a delta para una mejor vision y resolucion.
 ![image](https://user-images.githubusercontent.com/85144847/125485707-20bf7f9c-342d-4ef6-a11e-f30787a31190.png)
 ![Captura de pantalla (1595)](https://user-images.githubusercontent.com/85144847/125485903-87b94e77-ae6f-46e2-b28b-946d81b64727.png)
 
+Armando el circuito de una forma familiar tenemos: 
+
+![image](https://user-images.githubusercontent.com/85144847/125488832-be87070c-5567-4c15-8f76-4394df70cb1f.png)
+![Captura de pantalla (1597)](https://user-images.githubusercontent.com/85144847/125488858-8602eb00-2037-4346-a6c6-711c9507590a.png)
+
+![image](https://user-images.githubusercontent.com/85144847/125488924-55ef47ea-b96c-425d-90f6-cd581fc36f2c.png)
+![Captura de pantalla (1598)](https://user-images.githubusercontent.com/85144847/125488937-ecc23e07-a7fa-4332-bc57-bcecfb6d4e44.png)
+
+![image](https://user-images.githubusercontent.com/85144847/125488972-4776d97b-aeae-43b2-91ca-f0a58d5b214d.png)
+![Captura de pantalla (1599)](https://user-images.githubusercontent.com/85144847/125489010-27a5bfcc-109a-4f85-9c73-b64e730c25f5.png)
+
+![image](https://user-images.githubusercontent.com/85144847/125489043-db34819b-a399-4269-be9a-ef59f1dab18d.png)
+![Captura de pantalla (1600)](https://user-images.githubusercontent.com/85144847/125489053-93fd1b6c-dbe2-4885-8a7b-fda01db9a3d3.png)
+
+45.Repita el problema 43 para el circuito de la figura 8-98.
 
 
 
