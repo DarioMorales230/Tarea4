@@ -115,7 +115,11 @@ Calculando lo requerido tenemos que:
 
 ![Captura de pantalla (1532)](https://user-images.githubusercontent.com/85144847/125390975-4a25e200-e369-11eb-8801-3c9d6d4640e3.png)
 
+7-3 Aplicaciones de los circuitos en serie-paralelo
 
+25. Calcule IC y VCE para el circuito de la figura 7-67.
+
+![image](https://user-images.githubusercontent.com/85144847/125391533-48105300-e36a-11eb-932a-b701904ad047.png)
 
 
 
