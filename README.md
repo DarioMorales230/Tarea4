@@ -134,7 +134,9 @@ Calculando lo requerido tenemos que:
 ![image](https://user-images.githubusercontent.com/85144847/125391533-48105300-e36a-11eb-932a-b701904ad047.png)
 
 
+Si se examina el circuito podemos darnos cuenta que IB ~ 0, se supone que R1 y R2 están efectivamente en serie. Esta presunción sería incorrecta si la corriente IB no fuera muy pequeña comparada con las corrientes a través de R1 y R2. Se usa la regla del divisor de voltaje para conocer el voltaje VB.
 
+![Captura de pantalla (1533)](https://user-images.githubusercontent.com/85144847/125396206-dcca7f00-e371-11eb-8b2c-5087a454699b.png)
 
 
 
