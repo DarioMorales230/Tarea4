@@ -4,6 +4,13 @@ Morales Carrillo Henry Dario, Flores Castillo Nicolas Fabian, Ramos Herrera Este
 
 1. OBJETIVOS
 
+1.1. Objetivo General.
+
+
+1.2. Objetivos Especificos.
+
+
+
 2. MARCO TEORICO
 
 2.1. Resumen Capitulo 7
