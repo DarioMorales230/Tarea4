@@ -518,7 +518,10 @@ Ciclo 3:
 
 (6Ω)I1+(3Ω)I2-(9Ω)I3=-5V
 
-![DEBER 8_Word GitHub_18-34 (1)-1](https://user-images.githubusercontent.com/85144847/125462384-50671e5d-f761-4757-8245-3c1072bb3fa8.png)
+![Captura de pantalla (1581)](https://user-images.githubusercontent.com/85144847/125463289-eb9f2699-f16c-4525-a2e6-6c52da26fa2a.png)
+
+![Captura de pantalla (1582)](https://user-images.githubusercontent.com/85144847/125463295-2416db0f-8c5f-43ea-8527-38cfaf42d09f.png)
+
 
 33. Escriba las ecuaciones de nodos para el circuito de la figura 8-88 y encuentre los voltajes en los nodos.
 
