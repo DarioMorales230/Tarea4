@@ -235,6 +235,22 @@ d. Si se usa el mismo voltímetro para medir el voltaje en el resistor de 200 k�
 
 ![Captura de pantalla (1556)](https://user-images.githubusercontent.com/85144847/125408987-15258980-e381-11eb-9059-ebb6d8c5cad8.png)
 
+37. un amperímetro se usa para medir la corriente en el circuito que se muestra en la figura 7-76.
+
+a. Explique cómo conectar de manera correcta el amperímetro para medir la corriente I1. 
+
+b. Determine los valores indicados cuando el amperímetro se usa para medir cada una de las corrientes que se indican en el circuito. 
+
+c. Calcule el efecto de carga en el medidor cuando se mide cada una de las corrientes.
+
+![image](https://user-images.githubusercontent.com/85144847/125409430-82391f00-e381-11eb-8a20-76be0f8545d4.png)
+
+• DESARROLLO
+
+a) La forma correcta de conectar un amperimetro en un circuito es en serie con el componente esto con la finalidad de saber su corriente electrica.
+
+
+
 
 
 4. VIDEO DE YOUTUBE
