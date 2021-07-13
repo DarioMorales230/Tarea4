@@ -175,7 +175,7 @@ b. Si R2 se ajusta para tener 2.5 kΩ ¿Cuál será el voltaje VL? Si se remuev
 
 a. Determine el intervalo del voltaje de salida (del mínimo al máximo) que se espera cuando el potenciómetro se ajusta del mínimo al máximo.
 
-b. Calcule R2 cuando VSAL =20 V.
+b. Calcule R2 cuando VSAL = 20 V.
 
 ![image](https://user-images.githubusercontent.com/85144847/125401527-e4d9ed00-e378-11eb-8153-cdd8cf7f368b.png)
 
@@ -184,6 +184,18 @@ b. Calcule R2 cuando VSAL =20 V.
 Primero obtendremos una resistencia que pueda darnos como dato el voltaje de salida en esta caso R2 y R3 estan en serie entonces sumamos 10 + 10 = 20 kOhmnio y es esa resistencia que nos indicara el voltaje de salida maxima y minima.
 
 ![Captura de pantalla (1544)](https://user-images.githubusercontent.com/85144847/125403235-ea383700-e37a-11eb-8326-2cf3a0e3a78f.png)
+
+El voltaje maximo del circuito sera cuando el potenciometro este en 10 KOhmnio y el minimo voltaje cuando tenga un valor de 0, aplicando el divisor de voltaje tenemos que: 
+
+![Captura de pantalla (1545)](https://user-images.githubusercontent.com/85144847/125404237-0ab4c100-e37c-11eb-9a63-a1750d032b04.png)
+![Captura de pantalla (1546)](https://user-images.githubusercontent.com/85144847/125404241-0ab4c100-e37c-11eb-8638-f19e27a67018.png)
+
+Para encontrar la R2 cuando el voltaje de salida es 20 voltios se aplica kirchof entonces quedaria:
+
+![Captura de pantalla (1547)](https://user-images.githubusercontent.com/85144847/125404351-25873580-e37c-11eb-8be7-6dca500a9904.png)
+
+
+
 
 
 4. VIDEO DE YOUTUBE
