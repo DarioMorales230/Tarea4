@@ -632,6 +632,7 @@ Armando el circuito de una forma familiar tenemos:
 ![Captura de pantalla (1599)](https://user-images.githubusercontent.com/85144847/125489010-27a5bfcc-109a-4f85-9c73-b64e730c25f5.png)
 
 ![image](https://user-images.githubusercontent.com/85144847/125489043-db34819b-a399-4269-be9a-ef59f1dab18d.png)
+![image](https://user-images.githubusercontent.com/85144847/125489580-13d9c0c6-a82a-4244-a8a0-3478851a2382.png)
 ![Captura de pantalla (1600)](https://user-images.githubusercontent.com/85144847/125489053-93fd1b6c-dbe2-4885-8a7b-fda01db9a3d3.png)
 
 45.Repita el problema 43 para el circuito de la figura 8-98.
