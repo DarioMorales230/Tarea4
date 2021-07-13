@@ -262,6 +262,23 @@ c) Efecti carga:
 
 3.2. CAPITULO 8
 
+8-1 Fuentes de corriente constante
+
+1. Encuentre el voltaje VS para el circuito de la figura 8-64. 
+
+![Captura de pantalla (1564)](https://user-images.githubusercontent.com/85144847/125412881-f29af0f9-f48e-4ac4-a32c-04b1cd2447f5.png)
+
+3. Vea el circuito de la figura 8-66: 
+
+a) Encuentre la corriente I3.
+
+![Captura de pantalla (1565)](https://user-images.githubusercontent.com/85144847/125413570-d98ba6a4-cd26-458d-9349-3407bd9b434b.png)
+
+b) Determine los voltajes VS y V1.
+
+![Captura de pantalla (1566)](https://user-images.githubusercontent.com/85144847/125413704-747199de-d65f-4c06-9378-f4b3841d4ce2.png)
+
+
 
 
 
