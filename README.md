@@ -51,7 +51,9 @@ Dibuje un circuito que corresponda a cada expresión.
 ![image](https://user-images.githubusercontent.com/85144847/125382403-396e6f80-e35b-11eb-91ac-0e6eb77caf59.png)
 
 a. RT
+
 b. IT, I1, I2, I3, I4
+
 c. Vab, Vbc.
 
 ![Captura de pantalla (1506)](https://user-images.githubusercontent.com/85144847/125383335-df6ea980-e35c-11eb-9431-0a405edaf4a2.png)
