@@ -582,6 +582,24 @@ Para el voltaje en la resistencia de 6 ohmnios:
 
 V6Ω=(-54.85-161,14)*6= -1.295 kV
 
+8-7 Conversiones delta-Y (Pi-T)
+
+39. Convierta cada una de las redes Δ de la figura 8-92 en su configuración Y equivalente.
+
+![image](https://user-images.githubusercontent.com/85144847/125467494-2675aee9-ae7a-4ed0-a611-0f4599ca2fe8.png)
+
+Para el circuito a) es:
+
+![Captura de pantalla (1589)](https://user-images.githubusercontent.com/85144847/125469272-3098c175-c882-4121-be39-35225c37be65.png)
+
+Para el circuito b) es:
+
+![Captura de pantalla (1590)](https://user-images.githubusercontent.com/85144847/125470046-95403fcb-cbbf-4a41-847a-f59823a88766.png)
+
+
+
+
+
 
 
 
