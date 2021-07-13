@@ -598,6 +598,10 @@ Para el circuito b) es:
 
 ![Captura de pantalla (1590)](https://user-images.githubusercontent.com/85144847/125470046-95403fcb-cbbf-4a41-847a-f59823a88766.png)
 
+41.Convierta cada una de las redes Y de la figura 8-94 en su configuración equivalente.
+
+![image](https://user-images.githubusercontent.com/85144847/125470552-454fb800-1b07-4530-8c7d-16c2798371b5.png)
+![image](https://user-images.githubusercontent.com/85144847/125470574-e54c1a78-01a3-4c89-a73c-4eaf04a659c6.png)
 
 
 
