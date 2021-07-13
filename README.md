@@ -217,6 +217,20 @@ Para este ejercicio probaremos cada resistencia indicada al principio del ejerci
 ![Captura de pantalla (1553)](https://user-images.githubusercontent.com/85144847/125407664-b7dd0880-e37f-11eb-9b13-019e7c36f1b4.png)
 ![Captura de pantalla (1554)](https://user-images.githubusercontent.com/85144847/125407832-e0fd9900-e37f-11eb-83e9-03f9e974ae32.png)
 
+7-5 Efectos de carga de los instrumentos
+
+35. Un voltímetro con una sensibilidad de S = 20 k Ω/V se usa en la escala de 10 V (con una resistencia interna total de 200 kΩ) para medir el voltaje en el resistor de 750 kΩ de la figura 7-74. El medidor indica un voltaje de 5.00 V.
+
+a. Determine el valor de la fuente de voltaje E. 
+
+b. ¿Qué voltaje se presentará en el resistor de 750 kΩ cuando el voltímetro se quite del circuito?
+
+c. Calcule el efecto de carga del medidor cuando se utilice como se muestra.
+
+d. Si se usa el mismo voltímetro para medir el voltaje en el resistor de 200 kΩ, ¿Cuál será la lectura?    
+
+![image](https://user-images.githubusercontent.com/85144847/125408076-202bea00-e380-11eb-9813-14f04d7920d6.png)
+
 
 
 
