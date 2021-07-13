@@ -496,7 +496,45 @@ Para el ciclo 2:
 
 ![Captura de pantalla (1579)](https://user-images.githubusercontent.com/85144847/125460795-6c56b8ba-a0a2-47ec-81fd-7149b33fd6db.png)
 
+31. Escriba las ecuaciones de malla para la red de la figura 8-86. Encuentre las corrientes de lazo con determinantes. 
 
+![image](https://user-images.githubusercontent.com/85144847/125460986-beb57752-b62f-4353-989a-03e38db149ea.png)
+
+Ciclo 1:
+
+-(3Ω)I1-2V-(1Ω)I1+(1Ω)I2-4V -(6Ω)I1+(6Ω)I3=0V
+
+-(10Ω)I1+(1Ω)I2+(6Ω)I3=6V
+
+Ciclo 2:
+
+4V-(1Ω)I2+(1Ω)I1+6V-(4Ω)I2-(3Ω)I2+(3Ω)I3=0V
+
+(1Ω)I1-(8Ω)I2+(3Ω)I3=-10V
+
+Ciclo 3:
+
+5V-(6Ω)I3+(6Ω)I1-(3Ω)I3+(3Ω)I2=0V
+
+(6Ω)I1+(3Ω)I2-(9Ω)I3=-5V
+
+![DEBER 8_Word GitHub_18-34 (1)-1](https://user-images.githubusercontent.com/85144847/125462384-50671e5d-f761-4757-8245-3c1072bb3fa8.png)
+
+33. Escriba las ecuaciones de nodos para el circuito de la figura 8-88 y encuentre los voltajes en los nodos.
+
+![image](https://user-images.githubusercontent.com/85144847/125461575-144a8e3d-6c4c-4b14-94bb-3b240a7dfb78.png)
+
+Nodo Va:
+
+I3+I4+3A+2A=0A
+
+Nodo Vb:
+
+I5=2A+I4
+
+• Desarrollando:
+
+![Captura de pantalla (1580)](https://user-images.githubusercontent.com/85144847/125462049-d599b3fd-e782-4283-979a-6e8e26206791.png)
 
 
 
