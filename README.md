@@ -85,6 +85,8 @@ b) Encuentre el Voltaje Vab.
 
 c) Verifique que la potencia suministrada al circuito es igual a la suma de las potencias disipadas por los resistores.
 
+•	Primer Circuito
+
 ![image](https://user-images.githubusercontent.com/85144847/125386926-bea95280-e362-11eb-86ff-4e6b7bd093d3.png)
 
 Armando el circuito de una fomra conocida para nosotros quedaria. 
@@ -97,7 +99,7 @@ Calculando lo requerido tenemos que:
 
 ![Captura de pantalla (1523)](https://user-images.githubusercontent.com/85144847/125388546-4beda680-e365-11eb-8375-0ab88320c1e3.png)
 
-
+•	Segundo Circuito
 
 
 
