@@ -603,6 +603,15 @@ Para el circuito b) es:
 ![image](https://user-images.githubusercontent.com/85144847/125470552-454fb800-1b07-4530-8c7d-16c2798371b5.png)
 ![image](https://user-images.githubusercontent.com/85144847/125470574-e54c1a78-01a3-4c89-a73c-4eaf04a659c6.png)
 
+Circuito a):
+
+![Captura de pantalla (1593)](https://user-images.githubusercontent.com/85144847/125482559-22a42f71-4f60-455a-81ed-fd76902fbdd4.png)
+
+Circuito b):
+
+![Captura de pantalla (1594)](https://user-images.githubusercontent.com/85144847/125483063-93ee6295-3a19-4fd2-8f07-5d90991dbcfe.png)
+
+
 
 
 
