@@ -24,6 +24,8 @@ Morales Carrillo Henry Dario, Flores Castillo Nicolas Fabian, Ramos Herrera Este
 
 2.1. Resumen Capitulo 8
 
+![WhatsApp Image 2021-07-13 at 08 10 58](https://user-images.githubusercontent.com/85144847/125470212-ebb94eab-b4c7-4369-890f-a86f6b03e69e.jpeg)
+
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
