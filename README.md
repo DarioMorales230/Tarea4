@@ -194,6 +194,28 @@ Para encontrar la R2 cuando el voltaje de salida es 20 voltios se aplica kirchof
 
 ![Captura de pantalla (1547)](https://user-images.githubusercontent.com/85144847/125404351-25873580-e37c-11eb-8be7-6dca500a9904.png)
 
+33. En el circuito de la figura 7-72 calcule el voltaje de salida VSAL cuando RL = 0 Ω, 250 Ω y 500 Ω.
+
+![image](https://user-images.githubusercontent.com/85144847/125405230-1e145c00-e37d-11eb-968e-2a6b4e2e6a56.png)
+
+• DESARROLLO
+
+Para este ejercicio probaremos cada resistencia indicada al principio del ejercicio y obtendremos el voltaje a y b con el divisor de voltaje.
+
+• Con 250 Ω.
+
+![Captura de pantalla (1548)](https://user-images.githubusercontent.com/85144847/125406088-130dfb80-e37e-11eb-92fb-3579e76048b5.png)
+![Captura de pantalla (1549)](https://user-images.githubusercontent.com/85144847/125406943-04741400-e37f-11eb-9691-10afbd6f474c.png)
+
+• Con 500 Ω.
+
+![Captura de pantalla (1550)](https://user-images.githubusercontent.com/85144847/125407144-37b6a300-e37f-11eb-99bc-c24e6017c1f5.png)
+![Captura de pantalla (1551)](https://user-images.githubusercontent.com/85144847/125407351-6896d800-e37f-11eb-8707-d43f491e3e0c.png)
+
+• Con 0 Ω.
+
+![Captura de pantalla (1553)](https://user-images.githubusercontent.com/85144847/125407664-b7dd0880-e37f-11eb-9b13-019e7c36f1b4.png)
+![Captura de pantalla (1554)](https://user-images.githubusercontent.com/85144847/125407832-e0fd9900-e37f-11eb-83e9-03f9e974ae32.png)
 
 
 
