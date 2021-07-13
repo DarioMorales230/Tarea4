@@ -374,9 +374,79 @@ I1 = I2 + I3
 
 1I1 - 1I2 - 1I3 + 0I4 = 0
 
+D = -5(14.4)-5(4.7)-1(38.54)-1(29.14)
 
+D = -163.18
 
+![Captura de pantalla (1576)](https://user-images.githubusercontent.com/85144847/125457910-8d0359dd-097d-44d7-a211-24489fc9c5f2.png)
 
+23. Vea el circuito de la figura 8-83:
+
+![image](https://user-images.githubusercontent.com/85144847/125457978-f2f4fae1-ee1c-4478-a094-77b66ed6d2a3.png)
+
+a.	Escriba las ecuaciones de corriente de rama. 
+
+abca = -(4Ω)I4 + (10Ω)I3 - 16V = 0V
+
+dcd = (6Ω)I2 - (10Ω)I3 + (2Ω)I1 = 0V
+
+Nodo d
+
+12 + I1 = I2
+
+Nodo c
+
+I2 + I3 + I4 = 0
+
+0I1 + 0I2 + 10I3 - 4I4 = 16
+
+2I1 + 6I2 - 10I3 + 0I4 = 0
+
+1I1 - 1I2 + 0I3 + 0I4 = -12
+
+0I1 + 1I2 + 1I3 + 1I4 = 0
+
+![Captura de pantalla (1577)](https://user-images.githubusercontent.com/85144847/125458781-7830a15a-534b-46bc-acc0-cddfaeb456b6.png)
+
+8-5 Análisis de mallas (lazos)
+
+ 25. Escriba las ecuaciones de malla para el circuito que se muestra en la figura 8-79 y encuentre las corrientes de lazo.
+
+![image](https://user-images.githubusercontent.com/85144847/125458862-3aed2b26-550f-47f1-881d-e26979d1b057.png)
+
+Malla 1
+
+15 - 30I1 - 6I1 + 6I2 = 0
+
+36I1 - 6I2 = 15
+
+12I1 - 2I2 = 5 (1)
+
+Malla 2
+
+-6I2 - 6I1 + 5 - 20I2=0
+
+6I1 - 26I2 = -5 (2)
+
+ECUACIONES: 
+
+12I1 - 2I2 = 5 
+
+6I1 - 26I2 = -5
+
+Multiplico (2) por dos
+
+12I1-52I2=-10 (3)
+
+Remplazo (3) de (1)
+
+50I2=15 I2=0.3 A 
+
+Remplazo I2 en (1)
+  
+12I1-0.6=5
+
+I1=0.467A
 
 
 
