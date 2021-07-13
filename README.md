@@ -138,6 +138,13 @@ Si se examina el circuito podemos darnos cuenta que IB ~ 0, se supone que R1 y R
 
 ![Captura de pantalla (1533)](https://user-images.githubusercontent.com/85144847/125396206-dcca7f00-e371-11eb-8b2c-5087a454699b.png)
 
+7-4 Potenciómetros
+
+27. Vea el circuito de la figura 7-69:
+
+a. Determine el intervalo de voltajes que aparecerán en RL a medida que el potenciómetro varíe entre sus valores mínimo y máximo.
+
+b. Si R2 se ajusta para tener 2.5 kΩ ¿Cuál será el voltaje VL? Si se remueve el resistor de carga ¿Qué voltaje aparecerá entre las terminales a y b?
 
 
 
