@@ -168,6 +168,9 @@ b. Si R2 se ajusta para tener 2.5 kΩ ¿Cuál será el voltaje VL? Si se remuev
 
 ![image](https://user-images.githubusercontent.com/85144847/125400149-2e293d00-e377-11eb-931d-5a90423fd84b.png)
 
+• DESARROLLO
+
+![Captura de pantalla (1540)](https://user-images.githubusercontent.com/85144847/125401250-8745a080-e378-11eb-956e-2da478b61af7.png)
 
 
 4. VIDEO DE YOUTUBE
