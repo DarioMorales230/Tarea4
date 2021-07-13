@@ -720,6 +720,9 @@ Ry=100+64.2=164.2
 ![image](https://user-images.githubusercontent.com/85144847/125502469-066602b6-3b59-449e-8bc8-d9a37f895186.png)
 
 
+![Captura de pantalla (1614)](https://user-images.githubusercontent.com/85144847/125503053-803b793f-4959-4c3b-9f4b-e43fee48bb0a.png)
+![image](https://user-images.githubusercontent.com/85144847/125502947-ce024760-d38b-4910-8ba2-b50863d4f1f2.png)
+
 
 4. VIDEO DE YOUTUBE
 
