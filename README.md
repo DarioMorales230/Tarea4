@@ -278,8 +278,23 @@ b) Determine los voltajes VS y V1.
 
 ![Captura de pantalla (1566)](https://user-images.githubusercontent.com/85144847/125413704-747199de-d65f-4c06-9378-f4b3841d4ce2.png)
 
+5. Para el circuito de la figura 8-68 encuentre las corrientes I1 e I2.
 
+![Captura de pantalla (1567)](https://user-images.githubusercontent.com/85144847/125452027-78b5e544-c04c-4241-8050-7386f4ad04c1.png)
 
+7. Verifique que la potencia suministrada por las fuentes es igual a la suma de las potencias disipadas por los resistores en el circuito de la figura 8-68.
+
+![Captura de pantalla (1568)](https://user-images.githubusercontent.com/85144847/125452549-704e44d6-5308-441d-87ac-737ac722b377.png)
+
+9. Convierta cada fuente de voltaje de la figura 8-70 en su fuente de corriente equivalente.
+
+![Captura de pantalla (1569)](https://user-images.githubusercontent.com/85144847/125453718-d6924800-75f7-4997-9edf-d1ca1b539d0a.png)
+
+11. Vea el circuito de la figura 8-72: 
+
+![image](https://user-images.githubusercontent.com/85144847/125453829-cb2a1681-11ec-4595-948d-6079a6b4c903.png)
+
+![Captura de pantalla (1571)](https://user-images.githubusercontent.com/85144847/125454188-f03860f9-e0f9-4274-a02d-c37fcda5c0f3.png)
 
 
 
