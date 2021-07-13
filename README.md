@@ -101,7 +101,19 @@ Calculando lo requerido tenemos que:
 
 •	Segundo Circuito
 
+![image](https://user-images.githubusercontent.com/85144847/125388852-e1893600-e365-11eb-9235-520b1945ae8e.png)
 
+Armando el circuito de una fomra conocida para nosotros quedaria. 
+
+![Captura de pantalla (1524)](https://user-images.githubusercontent.com/85144847/125389660-30839b00-e367-11eb-943b-aaa199fe166d.png)
+
+![Captura de pantalla (1530)](https://user-images.githubusercontent.com/85144847/125390434-80af2d00-e368-11eb-92d0-77f4fc53d342.png)
+
+![Captura de pantalla (1531)](https://user-images.githubusercontent.com/85144847/125390518-a2a8af80-e368-11eb-835c-af9a04b0236c.png)
+
+Calculando lo requerido tenemos que:
+
+![Captura de pantalla (1532)](https://user-images.githubusercontent.com/85144847/125390975-4a25e200-e369-11eb-8801-3c9d6d4640e3.png)
 
 
 
