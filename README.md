@@ -302,6 +302,23 @@ b) Determine los voltajes VS y V1.
 
 ![Captura de pantalla (1572)](https://user-images.githubusercontent.com/85144847/125454685-245cc382-ac15-4158-ba3e-661bc450fa0a.png)
 
+15. Encuentre el voltaje V2 y la corriente I1 para el circuito de la figura 8-76. 
+
+![image](https://user-images.githubusercontent.com/85144847/125454823-31913b91-a48b-4cd9-9906-e9e39db20a01.png)
+
+![Captura de pantalla (1573)](https://user-images.githubusercontent.com/85144847/125455235-4d402b60-215f-4bcc-a48a-b2ba30c86d4e.png)
+
+17. Para el circuito de la figura 8-78 convierta la fuente de corriente y el resistor de 2.4 kohm en una fuente de voltaje y calcule el voltaje Vab y la corriente I3.
+
+![image](https://user-images.githubusercontent.com/85144847/125455334-ddc0b705-93ec-4796-9e76-f78c90069225.png)
+
+V = 3mA * R2
+
+V = 3mA  * 2.4 kΩ
+
+V = 7.2 V
+
+
 
 
 4. VIDEO DE YOUTUBE
