@@ -713,6 +713,13 @@ Con el cambio realizado procederemos a armar nuevamente el circuito de una forma
 ![image](https://user-images.githubusercontent.com/85144847/125502127-3f5c7d43-071c-475a-9a69-53c0e374f839.png)
 ![image](https://user-images.githubusercontent.com/85144847/125502136-789c44c1-e806-4cea-9ad9-d49de75f92b1.png)
 
+Rx=300+23.1=323.1
+
+Ry=100+64.2=164.2
+
+![image](https://user-images.githubusercontent.com/85144847/125502469-066602b6-3b59-449e-8bc8-d9a37f895186.png)
+
+
 
 4. VIDEO DE YOUTUBE
 
