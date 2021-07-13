@@ -296,6 +296,11 @@ b) Determine los voltajes VS y V1.
 
 ![Captura de pantalla (1571)](https://user-images.githubusercontent.com/85144847/125454188-f03860f9-e0f9-4274-a02d-c37fcda5c0f3.png)
 
+13. Vea el circuito de la figura 8-74:
+
+![image](https://user-images.githubusercontent.com/85144847/125454328-d7d19c89-ac29-442c-997c-fdb39c3f6016.png)
+
+![Captura de pantalla (1572)](https://user-images.githubusercontent.com/85144847/125454685-245cc382-ac15-4158-ba3e-661bc450fa0a.png)
 
 
 
