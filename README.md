@@ -251,6 +251,17 @@ a) La forma correcta de conectar un amperimetro en un circuito es en serie con e
 
 b) Obtenemos primero la resitencia equivalente:
 
+![Captura de pantalla (1558)](https://user-images.githubusercontent.com/85144847/125411476-92ea9480-e383-11eb-8659-7e243b5d6bf4.png)
+
+![Captura de pantalla (1559)](https://user-images.githubusercontent.com/85144847/125411507-9a11a280-e383-11eb-9208-eb30d086f216.png)
+![Captura de pantalla (1561)](https://user-images.githubusercontent.com/85144847/125411570-a85fbe80-e383-11eb-89f6-7ca0abd37d41.png)
+
+c) Efecti carga:
+
+![Captura de pantalla (1562)](https://user-images.githubusercontent.com/85144847/125411811-e361f200-e383-11eb-8c80-cebea8b35895.png)
+
+3.2. CAPITULO 8
+
 
 
 
