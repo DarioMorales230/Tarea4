@@ -77,6 +77,30 @@ c. Verifique que la potencia suministrada al circuito es igual a la suma de las 
 
 ![Captura de pantalla (1516)](https://user-images.githubusercontent.com/85144847/125386140-61f96800-e361-11eb-8ee5-ebf0660dc50c.png)
 
+15. Vea los circuitos de la figura 7-58:
+
+a) Encuentre las corrientes indicadas.
+
+b) Encuentre el Voltaje Vab.
+
+c) Verifique que la potencia suministrada al circuito es igual a la suma de las potencias disipadas por los resistores.
+
+![image](https://user-images.githubusercontent.com/85144847/125386926-bea95280-e362-11eb-86ff-4e6b7bd093d3.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
