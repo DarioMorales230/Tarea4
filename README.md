@@ -718,10 +718,13 @@ Rx=300+23.1=323.1
 Ry=100+64.2=164.2
 
 ![image](https://user-images.githubusercontent.com/85144847/125502469-066602b6-3b59-449e-8bc8-d9a37f895186.png)
-
-
 ![Captura de pantalla (1614)](https://user-images.githubusercontent.com/85144847/125503053-803b793f-4959-4c3b-9f4b-e43fee48bb0a.png)
+
 ![image](https://user-images.githubusercontent.com/85144847/125502947-ce024760-d38b-4910-8ba2-b50863d4f1f2.png)
+
+• Desarrollando nos queda:
+
+![Captura de pantalla (1615)](https://user-images.githubusercontent.com/85144847/125503502-7711e62e-d61e-4ed2-b784-c5f9c6cacc55.png)
 
 
 4. VIDEO DE YOUTUBE
@@ -730,7 +733,11 @@ https://youtu.be/Ym94Vzg9ogI
 
 5. CONCLUSIONES
 
+•	Se logro identificar cada circuito con su repesctiva solucion dandonos a conocer que el circuito paralelo es el que mas se logra ver. 
 
+•	Se pudo complementar cada ecuacion para los diferentes circuito ya sea en nodo, rama o malla y dimos como entendido que puede existir mas de una forma de resolucion de los problemas.
+
+•	Se logro entender de la mejor manera posible cada teorema para los diferentes circuitos que nos lleguemos a encontrar de aqui en adelante dando una mejor apreciacion y razonamiento de ellos.
 
 6. BIBLIOGRAFIA
 
