@@ -10,16 +10,11 @@ Morales Carrillo Henry Dario, Flores Castillo Nicolas Fabian, Ramos Herrera Este
 
 1.2. Objetivos Especificos.
 
+•	Identificar los diferentes circuitos que lleguemos a encontrar durante los capítulos y obviamente saber cómo es su respectiva resolución. 
 
+•	Definir las diferentes ecuaciones que logremos obtener de los circuitos presentes las ecuaciones pueden ser tanto de voltaje o corriente eléctrica.
 
-
-
-
-
-
-
-
-
+•	Detallar cada teorema, componente y ejercicio esto con el fin de entender mas sobre el tema que este siendo tratado y para una mejor presentación. 
 
 2. MARCO TEORICO
 
