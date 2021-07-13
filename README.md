@@ -611,8 +611,14 @@ Circuito b):
 
 ![Captura de pantalla (1594)](https://user-images.githubusercontent.com/85144847/125483063-93ee6295-3a19-4fd2-8f07-5d90991dbcfe.png)
 
+43.Utilice las conversiones -Y o Y-, para encontrar la corriente I para el circuito de la figura 8-96.
 
+![image](https://user-images.githubusercontent.com/85144847/125484231-9c6ec4aa-0810-4b62-8fd9-4ff71b29e6e8.png)
 
+Primero pasaremos de Y a delta para una mejor vision y resolucion.
+
+![image](https://user-images.githubusercontent.com/85144847/125485707-20bf7f9c-342d-4ef6-a11e-f30787a31190.png)
+![Captura de pantalla (1595)](https://user-images.githubusercontent.com/85144847/125485903-87b94e77-ae6f-46e2-b28b-946d81b64727.png)
 
 
 
@@ -626,7 +632,7 @@ https://youtu.be/Ym94Vzg9ogI
 
 
 
-6. BIBLIOGRAFIA 
+6. BIBLIOGRAFIA
 
 7 AnÃ¡lisis de ciruitos - Robbins.rar. (s. f.). Recuperado 13 de julio de 2021, de https://drive.google.com/file/d/1xLy0QqUmSOByE8CDn-6dgCHs8NJL-juA/view?usp=sharing
 
