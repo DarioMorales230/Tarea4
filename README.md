@@ -87,6 +87,13 @@ c) Verifique que la potencia suministrada al circuito es igual a la suma de las 
 
 ![image](https://user-images.githubusercontent.com/85144847/125386926-bea95280-e362-11eb-86ff-4e6b7bd093d3.png)
 
+Armando el circuito de una fomra conocida para nosotros quedaria. 
+
+![Captura de pantalla (1517)](https://user-images.githubusercontent.com/85144847/125387613-ce756680-e363-11eb-85e7-a924cb250c07.png)
+![Captura de pantalla (1518)](https://user-images.githubusercontent.com/85144847/125387620-cf0dfd00-e363-11eb-8520-098b94a8acf1.png)
+![Captura de pantalla (1519)](https://user-images.githubusercontent.com/85144847/125387621-cfa69380-e363-11eb-8534-4967359d9aa4.png)
+![Captura de pantalla (1520)](https://user-images.githubusercontent.com/85144847/125387622-cfa69380-e363-11eb-9e9f-025bdb26d33a.png)
+
 
 
 
