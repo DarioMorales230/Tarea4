@@ -181,6 +181,10 @@ b. Calcule R2 cuando VSAL =20 V.
 
 • DESARROLLO
 
+Primero obtendremos una resistencia que pueda darnos como dato el voltaje de salida en esta caso R2 y R3 estan en serie entonces sumamos 10 + 10 = 20 kOhmnio y es esa resistencia que nos indicara el voltaje de salida maxima y minima.
+
+![Captura de pantalla (1544)](https://user-images.githubusercontent.com/85144847/125403235-ea383700-e37a-11eb-8326-2cf3a0e3a78f.png)
+
 
 4. VIDEO DE YOUTUBE
 
