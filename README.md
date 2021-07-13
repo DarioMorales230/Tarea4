@@ -42,6 +42,8 @@ Dibuje un circuito que corresponda a cada expresión.
 
 9. Calcule la resistencia Rab y Rcd en el circuito de la figura 7-52.
 
+![image](https://user-images.githubusercontent.com/85144847/125376413-8bf65e80-e350-11eb-9c12-11e43188fc5b.png)
+![Captura de pantalla (1505)](https://user-images.githubusercontent.com/85144847/125376562-e394ca00-e350-11eb-90f1-1dbe22d5aef5.png)
 
 
 11. Vea el circuito de la figura 7-54. Encuentre las siguientes cantidades: 
